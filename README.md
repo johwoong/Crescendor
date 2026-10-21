@@ -18,7 +18,9 @@
 
 # *동영상 / GitHub*
 
-[Crescendor 시연 영상](https://youtu.be/W3biAn-fPuE) · [GitHub](https://github.com/johwoong/Crescendor.git)
+[Crescendor 시연 영상](https://youtu.be/W3biAn-fPuE) · [GitHub](https://github.com/johwoong/Crescendor.git) · [Notion 포트폴리오](https://www.notion.so/2f80c02b964a8187b5fad501b2988d87)
+
+🏆 제24회 한국공학대전 월드클래스기업협회상 수상
 
 # *프로젝트 소개*
 
